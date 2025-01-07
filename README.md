@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning on Data Analyst
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width: 60px; width: 60px; min-width: 60px; height: 60px;" /> <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" style="max-width: 120px; width: 120px; min-width: 60px; height: 60px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width: 60px; width: 60px; min-width: 60px; height: 60px;" /> <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" />
 
 📫 How to reach me: alexslobodskoj@gmail.com
 
