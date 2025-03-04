@@ -2,7 +2,7 @@
 
 I'm a Data Analyst and love visualisations
 
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.png" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
+<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.png" style="max-width: 96px; width: 96px; min-width: 80px; height: 100px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/datalens.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
