@@ -9,7 +9,7 @@ and love visualisations
 <img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-new.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
 <img src="https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/113/2017/06/power-bi-logo.jpg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
 
-📫 How to reach me: alexslobodskoj@gmail.com
+Hire Me 🌎: alexslobodskoj@gmail.com
 
 
 
