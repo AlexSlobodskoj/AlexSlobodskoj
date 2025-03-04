@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Analyst 🤔
-and love visualisations
+I'm a Data Analyst and love visualisations
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width: 70px; width: 70px; min-width: 70px; height: 70px;" />
 <img src="https://www.postgresql.org/media/img/about/press/slonik_with_black_text_and_tagline.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
