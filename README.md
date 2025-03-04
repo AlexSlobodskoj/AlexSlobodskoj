@@ -8,7 +8,7 @@ I'm a Data Analyst and love visualisations
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/datalens.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/powerbi.jpeg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
 
-Hire Me <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NmbG14aXNnOGxuODB6dGt2N3ZoYW1oanh1cmdiZ2QxcDE4aDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" /> alexslobodskoj@gmail.com
+Hire Me <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/growth.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" /> alexslobodskoj@gmail.com
 
 
 
