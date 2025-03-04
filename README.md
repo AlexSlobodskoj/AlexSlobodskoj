@@ -9,7 +9,7 @@ and love visualisations
 <img src="https://storage.yandexcloud.net/datalens-promo-prod/assets/logo-new.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
 <img src="https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/sites/113/2017/06/power-bi-logo.jpg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
 
-Hire Me https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NmbG14aXNnOGxuODB6dGt2N3ZoYW1oanh1cmdiZ2QxcDE4aDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif: alexslobodskoj@gmail.com
+Hire Me <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NmbG14aXNnOGxuODB6dGt2N3ZoYW1oanh1cmdiZ2QxcDE4aDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif" style="max-width: 53px; width: 53px; min-width: 30px; height: 30px;" />: alexslobodskoj@gmail.com
 
 
 
