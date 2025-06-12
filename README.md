@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Analyst and love visualisations
+I'm a BI Analyst and love visualisations
 
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
