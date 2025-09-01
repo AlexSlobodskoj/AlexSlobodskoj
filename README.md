@@ -8,11 +8,11 @@ Find insights in data and help users make effective decisions.
 
 Do ad-hoc analytics and dashboards. Automate reporting. Use a systematic approach and the necessary tools for data analysis and visualization.
 
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/powerbi.jpeg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/datalens.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
+<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
+<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 
 Hire Me <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/growth.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" /> alexslobodskoj@gmail.com
 
