@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I'm a BI Analyst and love visualisations
+I'm a BI Analyst.
+
+Can understand business. Ask the right questions.
+Turn business requirements into clear implementations.
+Find insights in data and help users make effective decisions.
+
+Do ad-hoc analytics and dashboards. Automate reporting. Use a systematic approach and the necessary tools for data analysis and visualization.
 
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
