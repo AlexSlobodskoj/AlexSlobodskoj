@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-I'm a BI Analyst.
+Hello!
 
-Can understand business. Ask the right questions.
-Turn business requirements into clear implementations.
-Find insights in data and help users make effective decisions.
+As a dedicated Business Intelligence Analyst with 5+ years, I bridge the gap between complex business challenges and data-driven solutions. 
+I excel at understanding business needs, asking the right questions, and translating requirements into actionable insights that empower teams to make informed, effective decisions.
 
-Do ad-hoc analytics and dashboards. Automate reporting. Use a systematic approach and the necessary tools for data analysis and visualization.
+In my role, I specialize in ad-hoc analytics, building interactive dashboards, and automating reporting processes to streamline operations and save time. 
+Using a systematic approach, I leverage tools like SQL, Python, Tableau and Superset to extract hidden insights from data, visualize trends, and support strategic initiatives.
+
+I'm passionate about delivering measurable value - whether it's uncovering cost-saving opportunities or driving growth through evidence-based recommendations. 
+Currently seeking new opportunities where I can contribute my analytical expertise to innovative teams.
+
+Excited to connect - let's discuss how I can support your organization's data needs!
 
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/powerbi.jpeg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
