@@ -13,8 +13,8 @@ Currently seeking new opportunities where I can contribute my analytical experti
 
 Excited to connect - let's discuss how I can support your organization's data needs!
 
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" />
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/powerbi.jpeg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px;" />
+<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px; display: inline-block;" alt="Tableau" />
+<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/powerbi.jpeg" style="max-width: 189px; width: 189px; min-width: 60px; height: 60px; display: inline-block;" alt="PowerBI" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/Superset.png" style="max-width: 189px; width: 231px; min-width: 60px; height: 60px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/datalens.svg" style="max-width: 238px; width: 238px; min-width: 32px; height: 32px;" />
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" />
