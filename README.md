@@ -2,16 +2,21 @@
 
 Hello!
 
-As a dedicated Business Intelligence Analyst with 5+ years, I bridge the gap between complex business challenges and data-driven solutions. 
-I excel at understanding business needs, asking the right questions, and translating requirements into actionable insights that empower teams to make informed, effective decisions.
+I'm a bridge between business challenges and data-driven solutions. 
 
-In my role, I specialize in ad-hoc analytics, building interactive dashboards, and automating reporting processes to streamline operations and save time. 
-Using a systematic approach, I leverage tools like SQL, Python, Tableau and Superset to extract hidden insights from data, visualize trends, and support strategic initiatives.
+Focusing on product growth and marketing efficiency in financial services. I help businesses reduce churn rates, optimize marketing funnels, and identify segments with the highest lifetime value (LTV). Understanding business needs, asking the right questions, and translating requirements into actionable insights - that's what empowers teams to make informed, effective decisions. 
 
-I'm passionate about delivering measurable value - whether it's uncovering cost-saving opportunities or driving growth through evidence-based recommendations. 
-Currently seeking new opportunities where I can contribute my analytical expertise to innovative teams.
+Key areas of expertise: 
 
-Excited to connect - let's discuss how I can support your organization's data needs!
+• Ad-hoc analytics: extracting hidden insights to solve immediate business problems (e.g., identified a 15% drop in ROAS across ad networks) 
+
+• Data analysis: leveraging SQL and Python to extract, clean, and analyze datasets for 3 cross-functional teams 
+
+• Data visualization: building 40+ interactive dashboards in Tableau and Superset for daily operational and strategic monitoring 
+
+• Process optimization: automating reporting to streamline operations, saving the team 15+ hours of manual work per week 
+
+Currently seeking new opportunities to leverage BI analytical expertise to drive growth. Let’s connect and discuss how your team can reach its goals through data-driven insights!
 
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/Superset.png" style="max-width: 189px; width: 231px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 
