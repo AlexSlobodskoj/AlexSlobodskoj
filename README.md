@@ -34,13 +34,12 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 [**Explore full portfolio →**](https://github.com/AlexSlobodskoj/Portfolio)
 
 <br>
-<br>
 
 ### Let's connect!
 
-**Email:** [alexslobodskoj@gmail.com](mailto:alexslobodskoj@gmail.com)
+📩 [alexslobodskoj@gmail.com](mailto:alexslobodskoj@gmail.com)
 <br>
-**LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/alexslobodskoj/)
+**LinkedIn:** [in/alexslobodskoj](https://www.linkedin.com/in/alexslobodskoj/)
 
 <br>
 
