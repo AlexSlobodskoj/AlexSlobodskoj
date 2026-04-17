@@ -31,7 +31,7 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 | 🎯   | [Efficiency of adv placements filtering](https://public.tableau.com/app/profile/alex.slobodskoj/viz/Efficiencyofadvplacementsfiltering/Dashboard) | For monitoring as part of a case "Increasing ROAS from advertising in Yandex Advertising Network". | Tableau, Google Sheets |
 
 
-[**Explore full portfolio →**](https://github.com/AlexSlobodskoj/Portfolio)
+[Explore full portfolio →](https://github.com/AlexSlobodskoj/Portfolio)
 
 <br>
 
