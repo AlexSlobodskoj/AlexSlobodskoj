@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Hello!
-
 I'm a bridge between business challenges and data-driven solutions. 
 
 Focusing on product growth and marketing efficiency in financial services. I help businesses reduce churn rates, optimize marketing funnels, and identify segments with the highest lifetime value (LTV). Understanding business needs, asking the right questions, and translating requirements into actionable insights - that's what empowers teams to make informed, effective decisions. 
@@ -38,3 +36,9 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 <br>
 
 Hire Me <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/growth.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" /> alexslobodskoj@gmail.com
+
+<br>
+
+### Let's connect!
+[<img src="https://jsdelivr.net" style="max-width: 30px; width: 30px; vertical-align: middle;" />](https://linkedin.com) **LinkedIn:** [://linkedin.com](https://linkedin.com)
+[<img src="https://github.com" style="max-width: 40px; width: 40px; vertical-align: middle;" />](mailto:alexslobodskoj@gmail.com) **Email:** [alexslobodskoj@gmail.com](mailto:alexslobodskoj@gmail.com)
