@@ -42,7 +42,3 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 </a>
 
 <a href="mailto:alexslobodskoj@gmail.com"><img align="left" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4e9.svg" width="20"/>alexslobodskoj@gmail.com</a>
-
-<br>
-
-<img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/growth.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" />
