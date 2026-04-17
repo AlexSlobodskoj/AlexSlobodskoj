@@ -14,7 +14,7 @@ Key areas of expertise:
 
 • Process optimization: automating reporting to streamline operations, saving the team 15+ hours of manual work per week 
 
-Currently seeking new opportunities to leverage BI analytical expertise to drive growth. Let’s connect and discuss how your team can reach its goals through data-driven insights!
+Currently seeking new opportunities to leverage BI analytical expertise to drive growth.
 
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/Superset.png" style="max-width: 189px; width: 231px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 
