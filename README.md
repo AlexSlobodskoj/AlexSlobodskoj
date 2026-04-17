@@ -37,8 +37,12 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 
 ### Let's connect!
 
-📩 [alexslobodskoj@gmail.com](mailto:alexslobodskoj@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexslobodskoj/)
+📩 [alexslobodskoj@gmail.com](mailto:alexslobodskoj@gmail.com)
+<br>
+<a href="https://www.linkedin.com/in/alexslobodskoj/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20" style="vertical-align: middle; filter: invert(28%) sepia(90%) saturate(1000%) hue-rotate(195deg);" />
+  in/alexslobodskoj
+</a>
 
 <br>
 
