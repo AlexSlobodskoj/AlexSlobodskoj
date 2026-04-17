@@ -21,7 +21,6 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/tableau.png" style="max-width: 267px; width: 267px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/Superset.png" style="max-width: 189px; width: 231px; min-width: 60px; height: 60px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/python.svg" style="max-width: 96px; width: 96px; min-width: 80px; height: 80px;" /> <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/postgresql.gif" style="max-width: 164px; width: 164px; min-width: 60px; height: 60px;" />
 
 <br>
-<br>
 
 ### 🏆 Top-6 Projects
 |     | Project Name                | Description                                                     | Tech Stack                                                         |
@@ -32,10 +31,10 @@ Currently seeking new opportunities to leverage BI analytical expertise to drive
 | 🚀   | [Startup Funding and Outcome](https://public.tableau.com/app/profile/alex.slobodskoj/viz/StartupsFundingandOutcome/Dashboard) | Simulated data of 100,000 companies for predicting IPO, Acquisition or Failure. Analyzing the Phik Correlation matrix and outcome distributions | Python, Tableau, PostgreSQL |
 | 📈   | [25-year Risk-Return profile by Asset Class](https://public.tableau.com/app/profile/alex.slobodskoj/viz/PortfolioReturnVolatility/Dashboard) | Risk-return analysis of asset classes and a set of model investment portfolios from 2001 to 2025 | Tableau, Excel |
 | 🎯   | [Efficiency of adv placements filtering](https://public.tableau.com/app/profile/alex.slobodskoj/viz/Efficiencyofadvplacementsfiltering/Dashboard) | For monitoring as part of a case "Increasing ROAS from advertising in Yandex Advertising Network". | Tableau, Google Sheets |
-<br>
+
+
 [**Explore full portfolio →**](https://github.com/AlexSlobodskoj/Portfolio)
 
-<br>
 <br>
 
 Hire Me <img src="https://github.com/AlexSlobodskoj/AlexSlobodskoj/blob/main/growth.gif" style="max-width: 107px; width: 107px; min-width: 60px; height: 60px;" /> alexslobodskoj@gmail.com
