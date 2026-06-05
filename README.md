@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-I'm a bridge between business challenges and data-driven solutions. 
+I'm a Business Intelligence Analyst focused on marketing and product analytics - helping teams reduce churn, optimize funnels, and identify high-value customer segments. 
 
-Focusing on product growth and marketing efficiency in financial services. I help businesses reduce churn rates, optimize marketing funnels, and identify segments with the highest lifetime value (LTV). Understanding business needs, asking the right questions, and translating requirements into actionable insights - that's what empowers teams to make informed, effective decisions. 
+I build automated data visualization solutions and reporting systems (Tableau, SQL, Python) that make the right numbers visible to the right people at the right time.  
 
 Key areas of expertise: 
 
-• Ad-hoc analytics: extracting hidden insights to solve immediate business problems (e.g., identified a 15% drop in ROAS across ad networks) 
+• Ad-hoc analytics: extracting hidden insights to solve immediate business problems
 
-• Data analysis: leveraging SQL and Python to extract, clean, and analyze datasets for 3 cross-functional teams 
+• Data analysis: leveraging SQL and Python to extract, clean, and analyze datasets for cross-functional teams 
 
-• Data visualization: building 40+ interactive dashboards in Tableau and Superset for daily operational and strategic monitoring 
+• Data visualization: building interactive dashboards in Tableau for daily operational and strategic monitoring 
 
-• Process optimization: automating reporting to streamline operations, saving the team 15+ hours of manual work per week 
+• Process optimization: automating reporting to streamline operations, saving the team of manual work per week 
 
 Currently seeking new opportunities to leverage BI analytical expertise to drive growth.
 
